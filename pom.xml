@@ -7,9 +7,6 @@
         <module>implicit</module>
         <module>password</module>
         <module>client-credentials</module>
-        <module>jwt</module>
-        <module>redis-token-saved</module>
-        <module>uaa-interface-adapter-demo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -17,7 +14,7 @@
         <version>2.2.1.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.github.hellxz</groupId>
+    <groupId>com.github.kersen</groupId>
     <artifactId>spring-security-oauth2-learn</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
